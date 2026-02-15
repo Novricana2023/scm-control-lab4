@@ -2,5 +2,3 @@
 
 Contact: support@example.com
 
-
-
